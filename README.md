@@ -34,4 +34,4 @@ For any issues or common problems, please refer to the following:
 * Ensure you have a sufficient balance for burning tokens.
 * Check the contract deployment address and network configuration.
 # Authors
-Dominique Pizzie - Aditya Gandu
+Dominique Pizzie - Aditya Prashar
